@@ -1,6 +1,6 @@
 # blockexplorer9
 
-The main.js file uses the Alchemy SDK to retrieve addresses that own NFTs in a given contract. contract "0x01a53B16c3f66F2299d796b2159A0346636a6De8"
+The main.js file uses the Alchemy SDK to retrieve addresses that own NFTs in a given contract. Contract "0x01a53B16c3f66F2299d796b2159A0346636a6De8"
 
 The NFT collection can be viewed on OpenSea: https://opensea.io/collection/972combinations
 
